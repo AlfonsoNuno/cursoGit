@@ -4,3 +4,6 @@ tarea 1 completado
 pruebas autos
 tarea 3 correccion final
 ahora desde desktop
+
+Correccion despues de produccion
+NullPointer
