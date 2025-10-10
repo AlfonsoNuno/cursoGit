@@ -7,3 +7,4 @@ ahora desde desktop
 
 Correccion despues de produccion
 NullPointer
+tambien hay un error de count>0
